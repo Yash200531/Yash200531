@@ -102,10 +102,10 @@
 <div align="center">
 
 ### 🚀 Pinned Repositories
-<a href="https://github.com/Yash200531/C-programming">
+<a href="https://github.com/Yash200531/Just-a-Freak">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash200531&repo=C-programming&theme=tokyonight&hide_border=true" alt="C Programming" />
 </a>
-<a href="https://github.com/Yash200531/Learning">
+<a href="https://github.com/Yash200531/C-Programming-Learning">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash200531&repo=Learning&theme=tokyonight&hide_border=true" alt="Learning Repository" />
 </a>
 
