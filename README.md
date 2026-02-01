@@ -1,213 +1,131 @@
 <div align="center">
-  
-# Hi there! I'm Yash 👋
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0ea5e9&height=90&section=header&text=&fontColor=ffffff&fontSize=42" alt="Profile banner" />
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&background=0D1117&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+Yash,+a+passionate+developer;First+Year+Computer+Science+Student;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
+<br />
 
+<div align="center">
+
+# Yash
+**CS student building security-focused software and practical learning systems**
+
+<a href="https://github.com/Yash200531">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Yash200531?style=flat" />
+</a>
+<a href="mailto:deewayyash@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-deewayyash%40gmail.com-8a2be2?style=flat" />
+</a>
+<img alt="Focus Cybersecurity" src="https://img.shields.io/badge/Focus-Cybersecurity-0f172a?style=flat" />
+<img alt="Focus ML" src="https://img.shields.io/badge/Focus-ML--Assisted%20Analysis-1f2937?style=flat" />
+<img alt="Focus Systems" src="https://img.shields.io/badge/Focus-Systems%20Programming-0b4f6c?style=flat" />
+
+</div>
+
+<div align="center">
+  About • Skills • Projects • Vision • Contact
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding in focus" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" loading="lazy" />
 
-- 🔭 I'm currently working on **C Programming & Database Projects**
-- 🌱 I'm currently learning **C (Intermediate), Python, MySQL & Data Structures**
-- 👨‍🎓 **First Year Computer Science Student** passionate about coding
-- 👯 I'm looking to collaborate on **Educational Projects & Database Systems**
-- 💬 Ask me about **C/C++, Python, MySQL, Student Management Systems**
-- 📫 How to reach me: **deewayyash@gmail.com**
-- ⚡ Fun fact: **Scored 94% in Informatics Practices! Built a complete student & timetable management system in school 🎯**
+I’m a first-year Computer Science student focused on **cybersecurity automation**, **ML-assisted threat analysis**, and **systems programming in C**. I build small, complete systems with clear documentation and reproducible setups.
+
+Current focus:
+- Security tooling and threat intelligence pipelines
+- Clean backend APIs in Python
+- Core CS fundamentals in C and C++
 
 ---
 
-## 🛠️ Languages and Tools
+## Skills
 
-<div align="center">
+<img align="right" alt="Systems terminal" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" loading="lazy" />
 
-### 💻 Programming Languages
+**Languages:** C, C++, Python, TypeScript, JavaScript, HTML, CSS
+
+**Backend & APIs:** FastAPI, Flask, SQLAlchemy
+
+**ML/Data:** scikit-learn, NumPy
+
+**Tooling:** Git, VS Code
+
+<br />
+
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
 
-### 📊 Python Libraries & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
+---
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+## Selected Projects
 
-### 🛠️ Tools & IDEs
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<img align="right" alt="Cybersecurity grid" width="320" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" loading="lazy" />
 
+### CyberSentryAI
+AI-assisted threat detection with Red-Team analysis and Cyber DNA fingerprinting. Unified FastAPI backend with structured logging and modular engines for text, URL, image, and email scanning.
+
+- Repo: https://github.com/Yash200531/CyberSentryAI
+
+### C-Programming-Learning
+Structured C learning path with exercises, lab work, and small projects. Includes documented scenarios, algorithms, and build instructions for Windows.
+
+- Repo: https://github.com/Yash200531/C-Programming-Learning
+
+### Just-a-Freak
+A minimal HTML/CSS creative project focused on layout and aesthetics. Simple, experimental, and evolving.
+
+- Repo: https://github.com/Yash200531/Just-a-Freak
+
+---
+
+## Activity
+
+| GitHub Stats | Top Languages |
+| --- | --- |
+| <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yash200531&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" /> | <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash200531&layout=compact&hide_border=true&theme=tokyonight" /> |
+
+<div align="center">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Yash200531&bg_color=0f172a&color=93c5fd&line=38bdf8&point=22d3ee&hide_border=true" />
+</div>
+
+<div align="center">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Yash200531/Yash200531/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Vision
 
-<div align="center">
+<img align="right" alt="AI visualization" width="300" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" loading="lazy" />
 
-### 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash200531&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Yash200531&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash200531&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
+Build security tools that are practical, understandable, and easy to deploy. I’m aiming to blend strong CS fundamentals with applied AI to ship real-world defensive systems.
 
 ---
 
-## 🏆 GitHub Trophies
+## Contact
 
-<div align="center">
+- Email: deewayyash@gmail.com
+- GitHub: https://github.com/Yash200531
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yash200531&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+<br />
 
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash200531&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🚀 Pinned Repositories
-<a href="https://github.com/Yash200531/Just-a-Freak">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash200531&repo=C-programming&theme=tokyonight&hide_border=true" alt="C Programming" />
+<a href="mailto:deewayyash@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-deewayyash%40gmail.com-8a2be2?style=flat" />
 </a>
-<a href="https://github.com/Yash200531/C-Programming-Learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yash200531&repo=Learning&theme=tokyonight&hide_border=true" alt="Learning Repository" />
+<a href="https://github.com/Yash200531">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Yash200531-111827?style=flat&logo=github&logoColor=white" />
 </a>
-
-</div>
-
----
-
-## 🏅 Achievements & Highlights
-
-<div align="center">
-
-### 🎯 Academic Excellence
-- 🏆 **94% in Informatics Practices** - Outstanding performance in Computer Science
-- 💻 **Student Management System** - Built complete system with Python + MySQL
-- 📅 **Timetable Division System** - Automated timetable for Classes 1-12
-- 🎓 **First Year CS Student** - Currently pursuing Computer Science
-
-### 📚 Currently Mastering
-- **C Programming** (Intermediate Level)
-- **C++** (Intermediate Level) 
-- **Python Libraries**: Matplotlib, NumPy, Dictionaries, Tuples
-- **Database Management**: MySQL Basics
-- **Data Structures & Algorithms**
-
-</div>
-
----
-
-## 🎨 Fun Animations
-
-<div align="center">
-
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/Yash200531/Yash200531/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-### 💫 Profile Views Counter
-<img src="https://komarev.com/ghpvc/?username=Yash200531&label=Profile%20views&color=70a5fd&style=flat" alt="Profile Views" />
-
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-<a href="mailto:deewayyash@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://github.com/Yash200531" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-### 📧 Let's Collaborate!
-*Always open to discussing projects, sharing knowledge, and learning together!*
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-</div>
-
----
-
-## 📈 Learning Journey
-
-<div align="center">
-
-```text
-🎯 Current Focus Areas:
-
-┌─ Data Structures & Algorithms
-├─ Advanced C/C++ Programming  
-├─ Python Backend Development
-├─ Database Design & Optimization
-└─ Software Development Best Practices
-
-💪 Next Goals: Web Development, Advanced Python Projects
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 💖 Thanks for visiting my profile!
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with fellow developers</b> so if you want to say <b>hi, discuss projects, or collaborate, I'll be happy to connect!</b> 😊</em>
-
-### 🎓 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
